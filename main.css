@@ -20,5 +20,5 @@ h2{
   color: yellow;
 }
 body{
-  background-image:url(http://i.imgur.com/bfoXN2l.jpg);
+  background-image:url("http://i.imgur.com/bfoXN2l.jpg");
 }
