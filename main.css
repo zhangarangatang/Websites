@@ -1,0 +1,22 @@
+h1{
+  color: aqua;
+  font-size:100px;
+  
+}
+h2{
+  color:black;
+}
+
+#shibe {
+    color: yellow;
+}
+#intro {
+  color: white;
+  font-size:40px;
+  background-image:url(http://admissions.vanderbilt.edu/insidedores/manage/wp-content/uploads/doge-pattern-27481-2880x1800.jpg);
+  }
+  
+#intro:hover {
+  color: yellow;
+}
+<body
