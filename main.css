@@ -19,4 +19,6 @@ h2{
 #intro:hover {
   color: yellow;
 }
-<body
+<body{
+  background-image:url(http://i.imgur.com/bfoXN2l.jpg);
+}
